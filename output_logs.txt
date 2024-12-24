@@ -1,0 +1,81 @@
+Epoch 1/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.1922 - loss: 2.1627
+Epoch 1: val_accuracy improved from -inf to 0.18421, saving model to skin_model.keras
+5/5 ━━━━━━━━━━━━━━━━━━━━ 24s 4s/step - accuracy: 0.1914 - loss: 2.1510 - val_accuracy: 0.1842 - val_loss: 1.6293
+Epoch 2/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.2423 - loss: 1.5999
+Epoch 2: val_accuracy improved from 0.18421 to 0.23684, saving model to skin_model.keras
+5/5 ━━━━━━━━━━━━━━━━━━━━ 14s 3s/step - accuracy: 0.2467 - loss: 1.5980 - val_accuracy: 0.2368 - val_loss: 1.6151
+Epoch 3/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.3318 - loss: 1.5543
+Epoch 3: val_accuracy improved from 0.23684 to 0.26316, saving model to skin_model.keras
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.3442 - loss: 1.5443 - val_accuracy: 0.2632 - val_loss: 1.5780
+Epoch 4/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.4972 - loss: 1.3080
+Epoch 4: val_accuracy improved from 0.26316 to 0.31579, saving model to skin_model.keras
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.4966 - loss: 1.3051 - val_accuracy: 0.3158 - val_loss: 1.5690
+Epoch 5/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.5161 - loss: 1.1080
+Epoch 5: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.5135 - loss: 1.1105 - val_accuracy: 0.1579 - val_loss: 1.9128
+Epoch 6/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.5759 - loss: 0.9489
+Epoch 6: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.5810 - loss: 0.9431 - val_accuracy: 0.3158 - val_loss: 1.9572
+Epoch 7/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.6388 - loss: 0.8683
+Epoch 7: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.6479 - loss: 0.8556 - val_accuracy: 0.2368 - val_loss: 2.5215
+Epoch 8/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.6938 - loss: 0.7452
+Epoch 8: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.6927 - loss: 0.7391 - val_accuracy: 0.1053 - val_loss: 3.4779
+Epoch 9/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.6718 - loss: 0.7802
+Epoch 9: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.6817 - loss: 0.7612 - val_accuracy: 0.2368 - val_loss: 2.5546
+Epoch 10/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.7647 - loss: 0.5507
+Epoch 10: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.7654 - loss: 0.5524 - val_accuracy: 0.2105 - val_loss: 3.3853
+Epoch 11/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.7997 - loss: 0.5330
+Epoch 11: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.7977 - loss: 0.5339 - val_accuracy: 0.2632 - val_loss: 3.8938
+Epoch 12/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.8436 - loss: 0.3919
+Epoch 12: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.8405 - loss: 0.3975 - val_accuracy: 0.2368 - val_loss: 4.2076
+Epoch 13/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.8994 - loss: 0.3870
+Epoch 13: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.8974 - loss: 0.3842 - val_accuracy: 0.2895 - val_loss: 3.7341
+Epoch 14/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.8853 - loss: 0.3246
+Epoch 14: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.8857 - loss: 0.3228 - val_accuracy: 0.2105 - val_loss: 5.9396
+Epoch 15/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9134 - loss: 0.2392
+Epoch 15: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.9143 - loss: 0.2366 - val_accuracy: 0.2105 - val_loss: 5.8644
+Epoch 16/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9349 - loss: 0.1971
+Epoch 16: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.9353 - loss: 0.1944 - val_accuracy: 0.1842 - val_loss: 6.3680
+Epoch 17/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9243 - loss: 0.1597
+Epoch 17: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.9254 - loss: 0.1605 - val_accuracy: 0.2368 - val_loss: 6.9727
+Epoch 18/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9277 - loss: 0.1900
+Epoch 18: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.9273 - loss: 0.1901 - val_accuracy: 0.2632 - val_loss: 5.2971
+Epoch 19/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9703 - loss: 0.1098
+Epoch 19: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.9701 - loss: 0.1110 - val_accuracy: 0.2105 - val_loss: 7.8046
+Epoch 20/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9724 - loss: 0.0851
+Epoch 20: val_accuracy did not improve from 0.31579
+5/5 ━━━━━━━━━━━━━━━━━━━━ 13s 3s/step - accuracy: 0.9718 - loss: 0.0856 - val_accuracy: 0.2368 - val_loss: 6.6668
+Training complete. Best model saved at skin_model.keras
