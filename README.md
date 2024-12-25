@@ -73,10 +73,6 @@ Use the Gradio UI to upload an image of a face. The model will predict the skin 
 ## Example  
 
 ![Gradio Example](assets/demo.png)  
-![Gradio Example](assets/Results1.png) 
-
-- **Input:** Facial image.  
-- **Output:** Predicted skin condition (e.g., "Acne").  
 
 ---
 
