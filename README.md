@@ -55,6 +55,20 @@ The model utilizes a **Gradio interface** to provide a user-friendly platform fo
 
 ---
 
+## Model Architecture  
+
+The CNN model uses the following components:  
+- Convolutional layers with ReLU activations.  
+- Max-pooling layers for dimensionality reduction.  
+- Dropout for regularization.  
+- Fully connected layers for classification.
+  
+![Model Architecture](assets/cnn-arch.png)  
+
+For more details, refer to `model.py`.  
+
+---
+
 ## Usage  
 
 ### 1. **Run the Gradio Interface**  
@@ -75,19 +89,6 @@ Use the Gradio UI to upload an image of a face. The model will predict the skin 
 ![Gradio Example](assets/demo.png)  
 
 ---
-
-## Model Architecture  
-
-The CNN model uses the following components:  
-- Convolutional layers with ReLU activations.  
-- Max-pooling layers for dimensionality reduction.  
-- Dropout for regularization.  
-- Fully connected layers for classification.  
-
-For more details, refer to `model.py`.  
-
----
-
 ## Future Enhancements  
 
 - Increase the dataset size for improved accuracy.  
