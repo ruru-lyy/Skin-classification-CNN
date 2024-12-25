@@ -65,7 +65,7 @@ The CNN model uses the following components:
   
 ![Model Architecture](assets/cnn-arch.png)  
 
-For more details, refer to `model.py`.  
+For more details, refer to `main.py`.  
 
 ---
 
