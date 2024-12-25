@@ -84,7 +84,7 @@ Use the Gradio UI to upload an image of a face. The model will predict the skin 
 
 ---
 
-## Example  
+## App Interface
 
 ![Gradio Example](assets/demo.png)  
 
