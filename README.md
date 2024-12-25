@@ -25,7 +25,7 @@ The model utilizes a **Gradio interface** to provide a user-friendly platform fo
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/yourusername/skin-classification-cnn.git  
+   git clone https://github.com/ruru-lyy/skin-classification-cnn.git  
    cd skin-classification-cnn  
    ```  
 
@@ -72,10 +72,11 @@ Use the Gradio UI to upload an image of a face. The model will predict the skin 
 
 ## Example  
 
-![Gradio Example](assets/gradio_example.png)  
+![Gradio Example](assets/demo.png)  
+![Gradio Example](assets/Results1.png) 
 
 - **Input:** Facial image.  
-- **Output:** Predicted skin condition (e.g., "Dry Skin").  
+- **Output:** Predicted skin condition (e.g., "Acne").  
 
 ---
 
